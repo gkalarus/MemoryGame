@@ -1,0 +1,16 @@
+#memoryGame {
+    width: 450px;
+    height: 450px;
+    position: relative;
+    margin: 100px auto;
+}
+
+#gameWin {
+    visibility: hidden;
+    text-align: center;
+    vertical-align: middle;
+    margin: 20px auto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
